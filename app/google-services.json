@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173396908372",
+    "project_id": "weatherapplication-hci",
+    "storage_bucket": "weatherapplication-hci.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173396908372:android:3de674782ba376b2a610c1",
+        "android_client_info": {
+          "package_name": "com.example.weatherapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiuax06TpCX63PeFQ4GK3bgR3buwTxtRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
